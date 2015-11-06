@@ -18,48 +18,61 @@
             "warning": "#E27A3F"
         }
     },
-    "about": {
-        "slogan": ["Add and update content away from HTML, like you had a database."],
-        "descriptions": {
-            "brief": ["Hatchling is a Content-View front end model that separates your website's content from the look and feel like in a CMS."],
-            "detailed": ["Your website content is stored in a JSON document and will be injected into HTML at run time via AngularJS. This model allows you to work on content and on layout design separately. You can version control only your content or have multiple languages. You can easily add a product or project without duplicating extra <div> or <li>. Your HTML code becomes simpler and DRYer."],
-            "more": ["In the JSON document, content is authored in a clearly structured schema. This schema helps you easily understand and organize your content. Hatchling predefined some common fields that are often used in a small business homepage, a product showcase page or a personal portfolio page. You can also add your own fields upon your need following JSON format."]
+    "sections": {
+        "home": {
+            "name": ["Home"],
+            "header": ["Hatchling"],
+            "body": ["Add and update content away from HTML, like you had a database."],
+            "footer": [],
+            "list": ["Find Out More"]
         },
-        "bio": ["Hatchling is created by Cherry Wang. The name is inspired by \"Chocobo Hatchling\", a fictional creature from a video game franchise \"Final Fantasy\". \"Hatchling\" conveys the idea that in the given incubator you can create your very own single page and nurser it to change and grow with ease."],
-        "featurelist": ["Static website", "Powered by AngularJS and JSON", "Clearly structured content template", "Customizable and scalable"],
-        "customfield1": ["You can add more content"],
-        "customfield2": ["You don't have to use these though"],
-        "customefield3": ["You can use meaningful field name if you want"]
+        "about": {
+            "name": ["About"],
+            "header": ["What is Hatchling?"],
+            "body": ["Hatchling is a Content-View front end model that separates your website's content from the look and feel like in a CMS.", "Your website content is stored in a JSON document and will be injected into HTML at run time via AngularJS. This model allows you to work on content and on layout design separately. You can version control only your content or have multiple languages. You can easily add a product or project without duplicating extra <div> or <li>. Your HTML code becomes simpler and DRYer.", "In the JSON document, content is authored in a clearly structured schema. This schema helps you easily understand and organize your content. Hatchling predefined some common fields that are often used in a small business homepage, a product showcase page or a personal portfolio page. You can also add your own fields upon your need following JSON format.", "Hatchling is created by Cherry Wang. The name is inspired by \"Chocobo Hatchling\", a fictional creature from a video game franchise \"Final Fantasy\". \"Hatchling\" conveys the idea that in the given incubator you can create your very own single page and nurser it to change and grow with ease."],
+            "footer": [],
+            "list": ["Static website", "Powered by AngularJS and JSON", "Clearly structured content template", "Customizable and scalable"]
+        },
+        "features": {
+            "name": ["Features"],
+            "header": ["What's Cool About Hatchling?"],
+            "body": [],
+            "footer": [],
+            "list": [{
+                "header": ["Static"],
+                "body": ["Hatchling makes static webpages. There is no backend or database. Hatchling works on all web hosting platforms."],
+                "images": ["assets/img/features/img-static.png"],
+                "icons": ["fa fa-hdd-o"]
+            }, {
+                "header": ["Seperated"],
+                "body": ["Content is stored and managed in a separate document. You can add, update, remove or version control your content away from the design."],
+                "images": ["assets/img/features/img-seperated.png"],
+                "icons": ["fa fa-file-code-o"]
+            }, {
+                "header": ["Scalable"],
+                "body": ["You can add new content like adding a record in database. You can also add a different version of the same content like in CMS."],
+                "images": ["assets/img/features/img-scalable.png"],
+                "icons": ["fa fa-file-code-o"]
+            }]
+        },
+        "gallery": {
+            "name": ["Gallery"],
+            "header": ["What Can You Hatch?"],
+            "body": ["You can use Hatchling to build single page website like your personal portfolio, a product showcase page or a small business webpage. You can also build a bit more complicated website that have several pages. As long as your website does not rely on a live database, and you do need to update the content at a fair frequency, you can use Hatchling model to keep your design update and content edit workflow simple and clear."],
+            "footer": [],
+            "images": [],
+            "icons": []
+        },
+        "howto":{
+            
+        },
+        "contact": {
+            "name":["Contact"],
+            "header":["Let's get in touch!"],
+            "body":["Ready to start your next project with Hatchling? That's great! Drop me a message and I can help you get started!"],
+            "email":["hatchling@catenology.com"]
+        }
     },
-    "features": [{
-        "title": ["Static"],
-        "description": ["Hatchling makes static single page website. There is no backend or database. Hatchling works on PHP, ASP or static hosting platform."],
-        "images": {
-            "image": "assets/img/features/img-static.png",
-            "icon": "fa fa-hdd-o"
-        }
-    }, {
-        "title": ["Seperated"],
-        "description": ["Content is stored and managed in a separate document. You don't have to edit the content together with your HTML too much."],
-        "images": {
-            "image": "assets/img/features/img-separated.png",
-            "icon": "fa fa-file-code-o"
-        }
-    }, {
-        "title": ["Scalable"],
-        "description": ["You can add new content like adding a record in database. You can also add a different version of the same content like in CMS."],
-        "images": {
-            "image": "assets/img/features/img-separated.png",
-            "icon": "fa fa-clone"
-        }
-    }, {
-        "title": ["Another Feature"],
-        "description": ["You can add more features in this array."],
-        "images": {
-            "image": "assets/img/features/img-separated.png",
-            "icon": "fa fa-clone"
-        }
-    }],
     "products": [{
         "category": "Chocobo",
         "title": ["Flame Hatchling"],
