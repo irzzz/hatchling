@@ -3,7 +3,7 @@ Add and update content away from HTML, like you had a database.
 ## What is Hatchling?
 
 Hatchling is a Content-View front end model that separates your website's content from the look and feel like in a CMS.
-Your website content is stored in a JSON document and will be injected into HTML at run time via AngularJS. This model allows you to work on content and on layout design separately. You can version control only your content or have multiple languages. You can easily add a product or project without duplicating extra <div> or <li>. Your HTML code becomes simpler and DRYer.
+Your website content is stored in a JSON document and will be injected into HTML at run time via AngularJS. This model allows you to work on content and on layout design separately. You can version control only your content or have multiple languages. You can easily add a product or project without duplicating extra code blocks. Your HTML code becomes simpler and DRYer.
 
 In the JSON document, content is authored in a clearly structured schema. This schema helps you easily understand and organize your content. Hatchling predefined some common fields that are often used in a small business homepage, a product showcase page or a personal portfolio page. You can also add your own fields upon your need following JSON format.
 
