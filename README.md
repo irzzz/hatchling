@@ -1,10 +1,13 @@
 # Hatchling
 Add and update content away from HTML, like you had a database.
+
+### [View Live Hatchling Example](http://htmlpreview.github.io/?https://github.com/chryw/hatchling/blob/master/index.html)
+
 ## What is Hatchling?
 
 Hatchling is a Content-View front end model that separates the content from the look and feel of your website.
 
-You can use Hatchling to build a CMS without a live database. Your website content is stored in a JSON document and will be injected into HTML at run time via AngularJS. This model allows you to work on content and on layout design separately. You can version control only your content or have multiple languages. You can easily add a product or project without duplicating extra <div> or <li>. Your HTML code becomes simpler and DRYer.
+You can use Hatchling to build a CMS without a live database. Your website content is stored in a JSON document and will be injected into HTML at run time via AngularJS. This model allows you to work on content and on layout design separately. You can version control only your content or have multiple languages. You can easily add a product or project without duplicating extra code blocks. Your HTML code becomes simpler and DRYer.
 
 In the JSON document, content is authored in a clearly structured schema. This schema helps you easily understand and organize your content. Hatchling predefined some common fields that are often used in a small business homepage, a product showcase page or a personal portfolio page. You can also add your own fields upon your need following JSON format.
 
@@ -18,6 +21,6 @@ Content is stored and managed in a separate document. You can add, update, remov
 You can add new content like adding a record in database. You can also add a different version of the same content like in CMS.
 ## What Can You Hatch?
 
-### [View Live Hatchling Example](http://htmlpreview.github.io/?https://github.com/chryw/hatchling/blob/master/index.html)
-
 You can use Hatchling to build single page website like your personal portfolio, a product showcase page or a small business webpage. You can also build a bit more complicated website that have several pages. As long as your website does not rely on a live database, and you do need to update the content at a fair frequency, you can use Hatchling model to keep your design update and content edit workflow simple and clear.
+
+### [View Live Hatchling Example](http://htmlpreview.github.io/?https://github.com/chryw/hatchling/blob/master/index.html)
