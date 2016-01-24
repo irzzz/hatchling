@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>1024</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="63.7926834%" y1="26.731592%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFE07D" offset="0%"></stop>
+            <stop stop-color="#FEBD47" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="13.1401075%" y2="97.0763918%" id="linearGradient-3">
+            <stop stop-color="#FBDA61" offset="0%"></stop>
+            <stop stop-color="#FFBE46" offset="86.5294165%"></stop>
+            <stop stop-color="#FFB335" offset="92.6120057%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="1024" sketch:type="MSArtboardGroup">
+            <ellipse id="body" fill="#FCD059" sketch:type="MSShapeGroup" cx="461.820476" cy="665.6475" rx="276.820476" ry="206.6475"></ellipse>
+            <g id="Chocobo-chick" sketch:type="MSLayerGroup" transform="translate(88.000000, -4.000000)">
+                <g id="shell" transform="translate(14.243058, 499.801861)" sketch:type="MSShapeGroup">
+                    <path d="M0,150.638458 C0,356.307099 168.827224,523.034475 377.08616,523.034475 C585.345095,523.034475 754.17232,356.307099 754.17232,150.638458 C754.17232,97.0248955 742.699883,46.0575363 722.047139,0 L679.61862,94.3603566 L632.210074,74.7569205 L590.085597,118.412472 L469.339154,65.8065877 L437.634737,162.829995 L336.574961,86.8330066 L259.870224,141.78728 L216.935961,65.8065886 L173.984611,116.203526 L125.009549,98.6551023 L82.1135041,120.998555 L29.3864357,30.4471514 C12.0785906,65.8049986 0,105.901149 0,150.638458 Z" id="Path-1" fill="url(#radialGradient-1)"></path>
+                    <path d="M260.345094,140.228693 L249.574366,167.447035 L269.932319,186.240051 L249.201861,220.031744 L225.010295,232.680242" id="Path-4" stroke="#8B572A" stroke-width="3"></path>
+                    <path d="M250.52798,221.482211 L262.956889,232.118974" id="Path-5" stroke="#8B572A" stroke-width="3"></path>
+                </g>
+                <ellipse id="Oval-9" fill="url(#linearGradient-2)" sketch:type="MSShapeGroup" cx="111.164128" cy="594.111564" rx="76.2891075" ry="159.290782"></ellipse>
+                <ellipse id="Oval-3" fill-opacity="0.5" fill="#452A13" sketch:type="MSShapeGroup" transform="translate(452.862758, 346.551290) rotate(10.000000) translate(-452.862758, -346.551290) " cx="452.862758" cy="346.55129" rx="79.1691739" ry="123.904428"></ellipse>
+                <path d="M548.259845,559.535778 C548.259845,559.535778 366.579379,744.497735 446.665913,813.497954 C526.752447,882.498173 656.886671,732.877178 656.886671,732.877178 C656.886671,732.877178 684.323909,705.854875 696.717077,659.662588 C704.218388,631.70342 702.177979,586.91959 696.717086,564.849955 C682.234067,506.318328 656.886679,511.918395 656.886679,511.918395" id="Path-3" fill="url(#linearGradient-2)" sketch:type="MSShapeGroup"></path>
+                <g id="face" sketch:type="MSShapeGroup">
+                    <g id="Oval-3-Copy-2-+-Oval-3-Copy-3-+-Oval-5-Copy" transform="translate(134.456689, 305.327818) rotate(-16.000000) translate(-134.456689, -305.327818) translate(34.755281, 169.371354)">
+                        <ellipse id="Oval-3-Copy-2" fill-opacity="0.5" fill="#452A13" transform="translate(99.753175, 136.010198) rotate(10.000000) translate(-99.753175, -136.010198) " cx="99.753175" cy="136.010198" rx="79.1691739" ry="123.904428"></ellipse>
+                        <ellipse id="Oval-3-Copy-3" fill-opacity="0.5" fill="#452A13" transform="translate(94.852127, 111.422339) rotate(10.000000) translate(-94.852127, -111.422339) " cx="94.8521274" cy="111.422339" rx="61.1721072" ry="95.737957"></ellipse>
+                        <ellipse id="Oval-5-Copy" fill="#FFFFFF" cx="79.1442958" cy="55.9371038" rx="17.4375103" ry="17.220625"></ellipse>
+                    </g>
+                    <path d="M135.607008,547.377074 C183.19621,592.897415 133.173549,523.993013 239.871938,523.993013 C305.917237,523.993013 459.898217,553.443247 554.414759,547.377074 C608.500521,543.905792 660.985381,522.857652 686.031239,504.905699 C743.097919,464.002394 755.954879,420.189616 758.531697,357.849297 C758.746672,352.648468 763.899362,289.667239 739.893655,225.827308 C725.074318,186.417285 698.862717,150.665754 660.633019,115.961738 C586.351608,48.5308296 470.170867,17.220625 376.843906,17.220625 C166.043559,17.220625 71.5125239,203.300607 71.5125239,357.849297 C71.5125239,434.171853 89.175855,502.96444 135.607008,547.377074 Z" id="Oval-1-Copy" fill="url(#linearGradient-3)"></path>
+                    <path d="M649.547258,110.72679 C649.547258,110.72679 720.846922,79.0435306 773.77249,22.7401589 L783.325657,57.7868216 C783.325657,57.7868216 846.945324,34.7727343 846.945324,2.79517718 C846.945324,-29.18238 866.264518,224.03144 734.461462,211.132788" id="Path-2" fill="#FBD961"></path>
+                    <ellipse id="Oval-3-Copy" fill-opacity="0.5" fill="#452A13" transform="translate(458.170631, 324.336756) rotate(10.000000) translate(-458.170631, -324.336756) " cx="458.170631" cy="324.336756" rx="61.1721072" ry="95.737957"></ellipse>
+                    <ellipse id="Oval-5" fill="#FFFFFF" cx="449.01589" cy="271.224844" rx="17.4375103" ry="17.220625"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
